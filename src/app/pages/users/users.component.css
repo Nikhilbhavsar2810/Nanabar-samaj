@@ -1,0 +1,76 @@
+.box {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding: 5px;
+}
+
+.white-box {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: white;
+}
+
+.box-card {
+
+    border: solid 1px black;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: blanchedalmond;
+}
+
+.box-card1 {
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.box2 {
+    margin-top: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: white;
+}
+
+.inp {
+    padding-right: 100px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 3px;
+    border-color: gray;
+    border-radius: 5px;
+}
+
+.box3 {
+    margin-top: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: white;
+}
+
+input.search {
+    width: 260px;
+    border: 1px solid #555;
+    display: block;
+    padding: 9px 4px 9px 40px;
+    background: transparent url("/assets/search.svg") no-repeat 13px;
+}
+
+.btn {
+    background-color: blue;
+    color: white;
+}
+
+.tablerow td {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+i {
+    cursor: pointer;
+}
